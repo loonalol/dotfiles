@@ -1,0 +1,5 @@
+require("core.plugin-settings.colorscheme") 
+require("core.plugin-settings.lsp") 
+require("core.plugin-settings.nvim-tree") 
+require("core.plugin-settings.bar") 
+require("core.plugin-settings.mason") 
