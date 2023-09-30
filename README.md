@@ -7,9 +7,8 @@ thank you for using my dotfiles, There's no support at all :3.
 # [Bspwm](https://github.com/Fluffyzwz/dotfiles/tree/bspwm)
 ![bspwm](./images/iy0yo4jm.png)
 
-# [Bspwm](https://github.com/Fluffyzwz/dotfiles/tree/i3wm)
 # [i3wm](https://github.com/Fluffyzwz/dotfiles/tree/i3wm)
-
+![bspwm](./images/fxfh5b29.png)
 
 # Lenovo Thinkpad T440P specs
 i7-4600M
